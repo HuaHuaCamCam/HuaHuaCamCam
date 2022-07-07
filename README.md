@@ -4,3 +4,4 @@
 * I am currently learning HTML, CSS ... for Front-End Development.
 * Kinda self-motivated learner.
 * Interested in new web technologies, frameworks and libraries.
+* I am always trying to learn new things. After I sleep, I will forget everything
