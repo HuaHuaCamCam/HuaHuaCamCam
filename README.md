@@ -1,4 +1,4 @@
-# Hi, I'm Hoa! 👋                               ![photo](https://github.com/HuaHuaCamCam/HuaHuaCamCam/commit/213d853ca17d4235d69c0122821c9ba5e1a858c2)                                      
+# Hi, I'm Hoa! 👋                                                               
 ---
 🐥 My name is Hoa and I'm studying Web Development in DCI Institute              
 * I am currently learning HTML, CSS ... for Front-End Development.  
